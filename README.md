@@ -66,29 +66,36 @@ goal:
 
 ---
 
-# 🚀 Featured Projects
-
-## 🔹 NyayaMitra
-
-AI-Powered Legal Assistance Platform using NLP and Generative AI.
-
-**Tech Stack:** Python, NLP, LLMs, Streamlit, Hugging Face
-
----
+# 🚀 Featured Project
 
 ## 🔹 Surface Defect Detection
 
-Industrial Quality Inspection System using YOLOv8 and Computer Vision.
+AI-Powered Surface Defect Detection System for industrial quality inspection using Computer Vision and Deep Learning.
 
-**Tech Stack:** Python, YOLOv8, OpenCV, Deep Learning
+### 🎯 Objective
 
----
+Detect and classify defects on industrial surfaces automatically to improve manufacturing quality and reduce manual inspection efforts.
 
-## 🔹 Mental Health NLP Project
+### ⚙️ Tech Stack
 
-Emotion Detection and Mental Health Analysis using NLP and Transformers.
+* Python
+* YOLOv8
+* OpenCV
+* Deep Learning
+* Computer Vision
+* Jupyter Notebook
 
-**Tech Stack:** Python, Transformers, Hugging Face, Deep Learning
+### ✨ Key Features
+
+* Real-time defect detection
+* High-accuracy object localization
+* Automated quality inspection
+* Deep learning-based classification
+* Industrial manufacturing use case
+
+### 📈 Impact
+
+Helps industries identify defective products faster, reduce human errors, and improve production efficiency through AI-powered visual inspection.
 
 ---
 
