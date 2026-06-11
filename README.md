@@ -1,6 +1,5 @@
-````md
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Rohan-Kumbhar-3387/Rohan-Kumbhar-3387/refs/heads/main/assets/banner.png" width="100%">
+  <img src="https://raw.githubusercontent.com/Rohan-Kumbhar-3387/Rohan-Kumbhar-3387/main/assets/banner.png" width="100%">
 </p>
 
 <h1 align="center">Hi 👋, I'm Rohan Kumbhar</h1>
@@ -55,16 +54,14 @@ currently_learning:
 
 goal:
   Build intelligent AI solutions that solve real-world problems.
-````
+```
 
 ---
 
 # ⚡ Tech Stack
 
 <p align="center">
-
 <img src="https://skillicons.dev/icons?i=python,cpp,c,mysql,tensorflow,pytorch,opencv,sklearn,git,github,vscode,jupyter"/>
-
 </p>
 
 ---
@@ -95,22 +92,6 @@ Emotion Detection and Mental Health Analysis using NLP and Transformers.
 
 ---
 
-## 🔹 AI Resume Analyzer
-
-Resume screening and ranking system using NLP and Machine Learning.
-
-**Tech Stack:** Python, NLP, Scikit-Learn
-
----
-
-## 🔹 Fake News Detection
-
-Detects fake and real news articles using Machine Learning algorithms.
-
-**Tech Stack:** Python, NLP, Machine Learning
-
----
-
 # 💻 LeetCode Stats
 
 <p align="center">
@@ -122,11 +103,8 @@ Detects fake and real news articles using Machine Learning algorithms.
 # 📊 GitHub Stats
 
 <p align="center">
-
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rohan-Kumbhar-3387&show_icons=true&theme=tokyonight"/>
-
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohan-Kumbhar-3387&layout=compact&theme=tokyonight"/>
-
 </p>
 
 ---
@@ -155,26 +133,6 @@ Detects fake and real news articles using Machine Learning algorithms.
 
 ---
 
-# 📊 Profile Summary
-
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rohan-Kumbhar-3387&theme=tokyonight"/>
-</p>
-
----
-
-# 🌟 Coding Activity
-
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rohan-Kumbhar-3387&theme=tokyonight"/>
-</p>
-
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rohan-Kumbhar-3387&theme=tokyonight"/>
-</p>
-
----
-
 # 👀 Profile Views
 
 <p align="center">
@@ -186,9 +144,7 @@ Detects fake and real news articles using Machine Learning algorithms.
 # 💡 Quote
 
 <p align="center">
-
-"Success in AI is built through consistency, projects, and continuous learning."
-
+Success in AI is built through consistency, projects, and continuous learning.
 </p>
 
 ---
@@ -196,4 +152,3 @@ Detects fake and real news articles using Machine Learning algorithms.
 <h3 align="center">
 ⭐ Thanks for Visiting My Profile ⭐
 </h3>
-```
