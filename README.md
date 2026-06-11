@@ -1,13 +1,31 @@
-<div align="center">
+````md
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Rohan-Kumbhar-3387/Rohan-Kumbhar-3387/refs/heads/main/assets/banner.png" width="100%">
+</p>
 
-# Hi 👋, I'm Rohan Kumbhar
+<h1 align="center">Hi 👋, I'm Rohan Kumbhar</h1>
 
-### AI & Data Science Student 🚀
-### Machine Learning 🧠 | Deep Learning 🤖 | Generative AI ✨
+<h3 align="center">
+AI & Data Science Student 🚀 | Machine Learning 🧠 | Deep Learning 🤖 | Generative AI ✨
+</h3>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=800&lines=AI+%26+Data+Science+Student;Machine+Learning+Enthusiast;Deep+Learning+Developer;Generative+AI+Explorer;NLP+%7C+Computer+Vision+%7C+DSA" />
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&lines=AI+%26+Data+Science+Student;Machine+Learning+Engineer;Deep+Learning+Enthusiast;Generative+AI+Explorer;NLP+%7C+Computer+Vision+%7C+DSA;Building+Intelligent+AI+Solutions" />
+</p>
 
-</div>
+<p align="center">
+<a href="https://www.linkedin.com/in/rohan-kumbhar-539ba228a">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://leetcode.com/u/Rohan_Kumbhar_4640/">
+<img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode"/>
+</a>
+
+<a href="https://github.com/Rohan-Kumbhar-3387">
+<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
+</a>
+</p>
 
 ---
 
@@ -20,10 +38,7 @@ role: AI & Data Science Student
 
 location: Pune, India
 
-education:
-  degree: B.Tech Artificial Intelligence & Data Science
-
-interests:
+focus:
   - Machine Learning
   - Deep Learning
   - Generative AI
@@ -40,51 +55,15 @@ currently_learning:
 
 goal:
   Build intelligent AI solutions that solve real-world problems.
-```
-
----
-
-# 🌐 Connect With Me
-
-<p align="center">
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
-</a>
-
-<a href="https://github.com/Rohan-Kumbhar-3387">
-<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
-</a>
-</p>
+````
 
 ---
 
 # ⚡ Tech Stack
 
-### Programming Languages
-
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,cpp,c,java,mysql"/>
-
-</p>
-
-### AI / ML
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn"/>
-
-</p>
-
-### Tools
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter"/>
+<img src="https://skillicons.dev/icons?i=python,cpp,c,mysql,tensorflow,pytorch,opencv,sklearn,git,github,vscode,jupyter"/>
 
 </p>
 
@@ -93,14 +72,10 @@ goal:
 # 🚀 Featured Projects
 
 ## 🔹 NyayaMitra
+
 AI-Powered Legal Assistance Platform using NLP and Generative AI.
 
-### Tech Used
-- Python
-- NLP
-- LLMs
-- Streamlit
-- Hugging Face
+**Tech Stack:** Python, NLP, LLMs, Streamlit, Hugging Face
 
 ---
 
@@ -108,27 +83,43 @@ AI-Powered Legal Assistance Platform using NLP and Generative AI.
 
 Industrial Quality Inspection System using YOLOv8 and Computer Vision.
 
-### Tech Used
-- Python
-- YOLOv8
-- OpenCV
-- Deep Learning
+**Tech Stack:** Python, YOLOv8, OpenCV, Deep Learning
 
 ---
 
 ## 🔹 Mental Health NLP Project
 
-AI system for detecting emotions and mental health patterns from text.
+Emotion Detection and Mental Health Analysis using NLP and Transformers.
 
-### Tech Used
-- NLP
-- Transformers
-- Deep Learning
-- Hugging Face
+**Tech Stack:** Python, Transformers, Hugging Face, Deep Learning
 
 ---
 
-# 📊 GitHub Statistics
+## 🔹 AI Resume Analyzer
+
+Resume screening and ranking system using NLP and Machine Learning.
+
+**Tech Stack:** Python, NLP, Scikit-Learn
+
+---
+
+## 🔹 Fake News Detection
+
+Detects fake and real news articles using Machine Learning algorithms.
+
+**Tech Stack:** Python, NLP, Machine Learning
+
+---
+
+# 💻 LeetCode Stats
+
+<p align="center">
+<img src="https://leetcard.jacoblin.cool/Rohan_Kumbhar_4640?theme=dark&font=Karma&ext=contest"/>
+</p>
+
+---
+
+# 📊 GitHub Stats
 
 <p align="center">
 
@@ -143,9 +134,7 @@ AI system for detecting emotions and mental health patterns from text.
 # 🔥 GitHub Streak
 
 <p align="center">
-
 <img src="https://streak-stats.demolab.com?user=Rohan-Kumbhar-3387&theme=tokyonight"/>
-
 </p>
 
 ---
@@ -153,19 +142,35 @@ AI system for detecting emotions and mental health patterns from text.
 # 🏆 GitHub Trophies
 
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Rohan-Kumbhar-3387&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
-
+<img src="https://github-profile-trophy.vercel.app/?username=Rohan-Kumbhar-3387&theme=tokyonight&column=4"/>
 </p>
 
 ---
 
-# 📈 Contribution Graph
+# 📈 GitHub Contribution Graph
 
 <p align="center">
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rohan-Kumbhar-3387&theme=tokyo-night"/>
+</p>
 
+---
+
+# 📊 Profile Summary
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rohan-Kumbhar-3387&theme=tokyonight"/>
+</p>
+
+---
+
+# 🌟 Coding Activity
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rohan-Kumbhar-3387&theme=tokyonight"/>
+</p>
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rohan-Kumbhar-3387&theme=tokyonight"/>
 </p>
 
 ---
@@ -173,9 +178,7 @@ AI system for detecting emotions and mental health patterns from text.
 # 👀 Profile Views
 
 <p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=Rohan-Kumbhar-3387&label=Profile%20Views&color=0e75b6&style=flat"/>
-
+<img src="https://komarev.com/ghpvc/?username=Rohan-Kumbhar-3387&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
 </p>
 
 ---
@@ -184,14 +187,13 @@ AI system for detecting emotions and mental health patterns from text.
 
 <p align="center">
 
-"Learning AI is not about using ChatGPT to write code. It's about understanding why the code works."
+"Success in AI is built through consistency, projects, and continuous learning."
 
 </p>
 
 ---
 
-<div align="center">
-
-### ⭐ Thanks for visiting my profile ⭐
-
-</div>
+<h3 align="center">
+⭐ Thanks for Visiting My Profile ⭐
+</h3>
+```
