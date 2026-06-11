@@ -13,6 +13,11 @@ AI & Data Science Student 🚀 | Machine Learning 🧠 | Deep Learning 🤖 | Ge
 </p>
 
 <p align="center">
+
+<a href="mailto:rohankumbhar3387@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
 <a href="https://www.linkedin.com/in/rohan-kumbhar-539ba228a">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
 </a>
@@ -24,37 +29,19 @@ AI & Data Science Student 🚀 | Machine Learning 🧠 | Deep Learning 🤖 | Ge
 <a href="https://github.com/Rohan-Kumbhar-3387">
 <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
 </a>
+
 </p>
 
 ---
 
 # 👨‍💻 About Me
 
-```yaml
-name: Rohan Kumbhar
-
-role: AI & Data Science Student
-
-location: Pune, India
-
-focus:
-  - Machine Learning
-  - Deep Learning
-  - Generative AI
-  - NLP
-  - Computer Vision
-  - Data Science
-  - DSA
-
-currently_learning:
-  - LLMs
-  - RAG
-  - LangChain
-  - Agentic AI
-
-goal:
-  Build intelligent AI solutions that solve real-world problems.
-```
+* 🎓 B.Tech Artificial Intelligence & Data Science Student
+* 📍 Pune, India
+* 🤖 Interested in Machine Learning, Deep Learning & Generative AI
+* 🧠 Currently learning LLMs, RAG, LangChain and Agentic AI
+* 💡 Passionate about building intelligent AI applications
+* 📚 Practicing DSA and improving problem-solving skills
 
 ---
 
@@ -124,14 +111,6 @@ Helps industries identify defective products faster, reduce human errors, and im
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Rohan-Kumbhar-3387&theme=tokyonight&column=4"/>
-</p>
-
----
-
 # 📈 GitHub Contribution Graph
 
 <p align="center">
@@ -143,7 +122,7 @@ Helps industries identify defective products faster, reduce human errors, and im
 # 👀 Profile Views
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=Rohan-Kumbhar-3387&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=Rohan-Kumbhar-3387&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge"/>
 </p>
 
 ---
@@ -151,7 +130,7 @@ Helps industries identify defective products faster, reduce human errors, and im
 # 💡 Quote
 
 <p align="center">
-Success in AI is built through consistency, projects, and continuous learning.
+<b>"Success in AI is built through consistency, projects, and continuous learning."</b>
 </p>
 
 ---
